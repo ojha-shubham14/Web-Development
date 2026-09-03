@@ -1,0 +1,14 @@
+img{
+    height: 300 px;
+    width:100 px;
+}
+#red-text{
+    color: red;
+}
+*{
+    text-align: center;
+}
+html{
+    background-color: burlywood;
+}
+

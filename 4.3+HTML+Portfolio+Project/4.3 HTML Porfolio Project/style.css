@@ -1,14 +1,37 @@
 img{
-    height: 300 px;
-    width:100 px;
+    height:30 px;
+    width:10 px;
 }
-#red-text{
-    color: red;
+.text{
+    color: white;
 }
 *{
     text-align: center;
 }
 html{
-    background-color: burlywood;
+    background-color: black;
 }
-
+#link1{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 100;
+}
+#link2{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 100;
+}
+#link3{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 100;
+}
+#link4{
+    color:aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: 100;
+}

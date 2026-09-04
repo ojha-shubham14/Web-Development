@@ -9,28 +9,28 @@ img{
     text-align: center;
 }
 html{
-    background-color: black;
+    background-color: burlywood;
 }
 #link1{
-    color:aqua;
+    color:rgb(0, 102, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: 100;
 }
 #link2{
-    color:aqua;
+    color:rgb(0, 102, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: 100;
 }
 #link3{
-    color:aqua;
+   color:rgb(0, 102, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: 100;
 }
 #link4{
-    color:aqua;
+    color:rgb(0, 102, 255);
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: 100;

@@ -1,8 +1,7 @@
 .text{
-    color: white;
-    font-weight: 900;
-    font-family: "Caveat", cursive;
-    font-optical-sizing: auto;
+    color: black;
+    font-family: "Caacupe One", sans-serif;
+    font-weight: bolder;
     font-style: normal;
 }
 *{

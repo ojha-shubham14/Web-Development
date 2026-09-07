@@ -4,6 +4,7 @@
     font-weight: bolder;
     font-style: normal;
 }
+
 *{
     text-align: center;
 }
@@ -33,4 +34,25 @@ html{
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-weight: 100;
+}
+#monospace {
+    font-family: monospace;
+}
+
+.MonoSize{
+    font-size:x-large ;
+    font-weight: 400;
+}
+
+.Maintext{
+    color: black;
+    font-family: "Caacupe One", sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: xxx-large;
+}
+
+.img{
+    height:auto;
+    width:600px;
 }

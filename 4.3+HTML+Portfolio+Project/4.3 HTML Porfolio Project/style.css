@@ -45,14 +45,18 @@ html{
 }
 
 .Maintext{
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: "Caacupe One", sans-serif;
     font-weight: bolder;
     font-style: normal;
     font-size: xxx-large;
+    
 }
 
 .img{
     height:auto;
     width:600px;
+    border:2.5px solid black;
+    padding:5px;
+    margin:20px;
 }

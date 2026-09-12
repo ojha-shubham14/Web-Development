@@ -36,11 +36,11 @@ html{
     font-weight: 100;
 }
 #monospace {
-    font-family: monospace;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .MonoSize{
-    font-size:x-large ;
+    font-size:large ;
     font-weight: 400;
 }
 

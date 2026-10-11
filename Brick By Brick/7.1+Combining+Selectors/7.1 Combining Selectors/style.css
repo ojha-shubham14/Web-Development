@@ -1,0 +1,25 @@
+/* Write your code here: */
+h1,h2{
+    color: blueviolet;
+}
+
+.box > p{
+    color: firebrick;
+}
+
+.list{          /*this is by using list*/
+    color: blue;
+}
+
+.box li{        /*By using descendent selector*/
+    color: red;
+}
+
+li.done{        /*chaining descendent*/
+    color: yellow;
+}
+
+ul p.done{      /*combining the selectors*/
+    color:aqua;
+    font-size: 0.5rem;
+}
